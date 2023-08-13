@@ -28,8 +28,3 @@ Here are some ideas to get you started:
 
 ##### Connect with me: 🙌
 
-<a href="https://twitter.com/your-handle"><img src="path/to/twitter-icon.png" width="30"></a>
-<a href="https://linkedin.com/in/your-profile"><img src="path/to/linkedin-icon.png" width="30"></a>
-<a href="https://github.com/your-username"><img src="path/to/github-icon.png" width="30"></a>
-
-
