@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 🎓  I am currently doing my bachelor's degree(SE)<br/>
 ✨  Inspired by myself<br/>
-💙  Finding my passion in "React"!<br/>
+💙  Falling in love with "React"!<br/>
+🚀  Finding my passion in "MERN"
 
 ##### Connect with me: 🙌
 
