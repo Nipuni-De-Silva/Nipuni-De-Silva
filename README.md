@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### A Developer & A Designer
+#### A Developer
 
 --------
 
